@@ -2,6 +2,8 @@
 
 **Task: query an API and display multiple images whose src urls are retrieved from the API call**
 
+[Online demo](https://dciforks.github.io/images-from-api/)
+
 ## Solution
 
 * getProductList in productList.js retrieves a JSON file from the API
